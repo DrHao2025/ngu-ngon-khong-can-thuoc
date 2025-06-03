@@ -3,11 +3,31 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ngủ ngon không cần thuốc</title>
+  <title>Ngủ ngon không cần thuốc - Dr. Dương Hảo</title>
+  <meta name="description" content="Giải pháp giúp bạn ngủ ngon tự nhiên, không cần dùng thuốc, an toàn và hiệu quả lâu dài.">
+  <meta name="keywords" content="ngủ ngon không cần thuốc, Dr. Dương Hảo, phục hồi sức khỏe, công nghệ cao">
+  <link rel="canonical" href="https://ngu-ngon-khong-can-thuoc.vercel.app" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+  <!-- Facebook Open Graph -->
+  <meta property="og:title" content="Ngủ ngon không cần thuốc - Dr. Dương Hảo" />
+  <meta property="og:description" content="Giải pháp giúp bạn ngủ ngon tự nhiên, an toàn và hiệu quả lâu dài." />
+  <meta property="og:url" content="https://ngu-ngon-khong-can-thuoc.vercel.app" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://link-anh-dai-dien.com/og-image.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ngủ ngon không cần thuốc - Dr. Dương Hảo" />
+  <meta name="twitter:description" content="Giải pháp giúp bạn ngủ ngon tự nhiên, an toàn và hiệu quả lâu dài." />
+  <meta name="twitter:image" content="https://link-anh-dai-dien.com/twitter-image.jpg" />
 </head>
 <body>
+  <!-- Logo -->
+  <img src="logo.png" alt="Logo Dr. Dương Hảo" width="150" />
+
   <h1>Chào mừng đến với Dr. Dương Hảo!</h1>
-  <p>🌿 Giải pháp giúp bạn ngủ ngon tự nhiên – không cần dùng thuốc.</p>
+  <p>🌿 <strong>Giải pháp giúp bạn ngủ ngon tự nhiên</strong> – không cần dùng thuốc. Sử dụng công nghệ cao, an toàn và hiệu quả lâu dài.</p>
   <p>📞 Liên hệ tư vấn miễn phí: <strong>0906 820 444</strong></p>
 </body>
 </html>
